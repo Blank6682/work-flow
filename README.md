@@ -7,4 +7,11 @@ Git Workflow
 
 10-05 change
 
+10-06 change rebase to main
+
+<<<<<<< HEAD
+=======
+10-07 change rebase to main
+>>>>>>> 5ce5ad1 (change)
+
 10-07 change rebase to main
